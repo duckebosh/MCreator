@@ -1,36 +1,23 @@
-## Welcome to GitHub Pages
+## MCreator Project
 
-You can use the [editor on GitHub](https://github.com/duckebosh/MCreator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For stable editions [visit this website](https://mcreator.net/). These files are not as advanced, but they could be less buggy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The idea of **this** site is for updated versions of MCreator forked by myself. It's open source! 
 
-### Markdown
+### What is MCreator
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MCreator allows anyone to get started with Minecraft modding. Since it uses a Graphical User Interface (GUI), it takes the huge amount of programming involved away!
 
 ```markdown
-Syntax highlighted code block
+# By duckebosh (MCruck)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I do not own any of the code for this project, rather just aim in making it better for the average user!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#  How to install
 
-### Jekyll Themes
+The way to install MCruck is simple. Click Download / View on Github.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duckebosh/MCreator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
