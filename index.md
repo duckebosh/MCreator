@@ -16,7 +16,7 @@ I do not own any of the code for this project, rather just aim in making it bett
 
 #  How to install
 
-The way to install MCruck is simple. Click Download / View on Github.
+The way to install MCruck is simple. Click 'View On Github' at the top of this page. 
 
 
 ### Support or Contact
